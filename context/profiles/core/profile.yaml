@@ -1,0 +1,9 @@
+title: Academic Writing - Core
+description: >-
+  The shared layer of the module: how a citation style is chosen (venue
+  guidelines, disciplinary convention, the footnote versus author-date
+  check, consistency), how the choice is benchmarked, and how the choice is
+  held across a document. The discipline profiles build on this core.
+packages:
+  defaults:
+    - citations

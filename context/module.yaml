@@ -1,0 +1,12 @@
+title: Academic Writing
+description: >-
+  Discipline-specific academic citation practice: how a citation style is
+  chosen, and how one style is held consistently across a document. One
+  profile per discipline: APA 7 for psychology and the social sciences,
+  MLA 9 for the humanities, Chicago 17 in both its variants, and IEEE for
+  engineering and the technical sciences.
+path: github.com/ctxmod/writing_academic/context
+requires:
+  - github.com/ctxmod/writing/context
+default_profiles:
+  - core

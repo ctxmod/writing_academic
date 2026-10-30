@@ -1,0 +1,10 @@
+extends:
+  - github.com/ctxmod/writing_academic/context/profiles/core
+title: Academic Writing - Chicago 17
+description: >-
+  History and general scholarship in both Chicago variants: the
+  notes-bibliography system and the author-date system, and how a venue's
+  expectation is verified before choosing between them.
+packages:
+  add:
+    - practice
