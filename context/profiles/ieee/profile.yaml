@@ -1,0 +1,9 @@
+extends:
+  - github.com/ctxmod/writing_academic/context/profiles/core
+title: Academic Writing - IEEE
+description: >-
+  Engineering and the technical sciences. Numbered citations in square
+  brackets with a numbered reference list.
+packages:
+  add:
+    - practice

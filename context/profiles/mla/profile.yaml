@@ -1,0 +1,9 @@
+extends:
+  - github.com/ctxmod/writing_academic/context/profiles/core
+title: Academic Writing - MLA 9
+description: >-
+  The humanities. Author-page citations in the MLA 9 manner: author and page
+  carry the reference in the style's in-text shape, with a works-cited list.
+packages:
+  add:
+    - practice

@@ -1,0 +1,10 @@
+extends:
+  - github.com/ctxmod/writing_academic/context/profiles/core
+title: Academic Writing - APA 7
+description: >-
+  Psychology and the social sciences. Author-date citations in the APA 7
+  manner: author and year carry the reference, locators for quotations, and
+  a reference list in the style's alphabetical order.
+packages:
+  add:
+    - practice
