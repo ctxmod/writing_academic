@@ -1,0 +1,20 @@
+extends:
+  - github.com/ctxmod/writing_academic/context/profiles/core
+title: Academic Writing — Scholarly Prose
+description: >-
+  Scholarly prose beyond citation format: research groundwork,
+  citation practice and integration, composition (IMRaD, depth
+  placement, exhibits, limitations), academic language, register,
+  voice, concreteness, rhythm and terminology, and multi-pass revision.
+  Complements a discipline profile (apa, mla, chicago, ieee), which
+  fixes the citation format. The typeset apparatus of an academic
+  document (citation-system consistency, float numbering, footnote
+  density, front matter, running heads) belongs to the design module's
+  academic documents package.
+packages:
+  add:
+    - research
+    - citation_practice
+    - composition
+    - language
+    - process
