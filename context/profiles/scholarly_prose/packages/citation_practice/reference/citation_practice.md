@@ -22,8 +22,8 @@ Selection criteria:
 
 When uncertain, check 10-15 recent publications in your target venue to identify the expected style and conventions.
 
-See `evidence_extraction` (module `agentic`, profile `workflows`, package `research`).
-See `source_evaluation` (module `agentic`, profile `workflows`, package `research`).
+See `evidence_extraction` (module `agentic`, profile `workflows`, skill `research_procedure`).
+See `source_evaluation` (module `agentic`, profile `workflows`, skill `research_procedure`).
 
 ## Narrative vs. Parenthetical Citations
 
@@ -118,7 +118,7 @@ Include complete metadata for every source:
 
 Maintain consistency in formatting. Reference style guides (APA Manual, MLA Handbook, Chicago Manual of Style, IEEE Editorial Style Manual) provide comprehensive rules for each style. Use bibliography management tools appropriate to your workflow and venue requirements.
 
-See `source_evaluation` (module `agentic`, profile `workflows`, package `research`).
+See `source_evaluation` (module `agentic`, profile `workflows`, skill `research_procedure`).
 
 ## Common Citation Mistakes
 
