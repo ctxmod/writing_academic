@@ -14,6 +14,14 @@ to choose when a venue does not name its style.
 | History and general scholarship | Chicago 17 | notes or author-date | bibliography or reference list |
 | Engineering and the technical sciences | IEEE | bracketed number | numbered reference list |
 
+Each family also serves its neighbouring fields, for a reason its
+in-text shape makes visible. APA 7 serves education and the health
+sciences as well, and its author-date shape foregrounds recency. MLA 9's
+author-page shape serves textual analysis in literature and languages,
+where the reader needs the passage, not the year. Chicago 17 serves the
+arts beside history. IEEE's bracketed number is chosen for concision
+and serves computer science as well as engineering.
+
 Chicago 17 is one style with two systems. Notes-bibliography cites
 through numbered notes in first-appearance order with an alphabetical
 bibliography; author-date cites through author-year pairs with an
