@@ -53,5 +53,5 @@ After broad scanning, transition to:
 
 The broad scan informs all subsequent phases by establishing what exists, what matters, and what remains unknown.
 
-See `query_formulation_academic` (module `agentic`, profile `academic`, package `research_academic`).
-See `source_selection_academic` (module `agentic`, profile `academic`, package `research_academic`).
+See `query_formulation_academic` (module `agentic`, profile `academic`, skill `scholarly_research_procedure`).
+See `source_selection_academic` (module `agentic`, profile `academic`, skill `scholarly_research_procedure`).
