@@ -13,7 +13,8 @@ Every entry carries the fields the style manual requires for its
 type, and the floor below applies before any entry is submitted:
 
 - all authors, in the style's name order, up to the manual's display
-  limit;
+  limit: up to six names, and for more than six the first author
+  followed by "et al.";
 - the title of the work;
 - the venue: the journal, the conference proceedings, or the
   equivalent container;

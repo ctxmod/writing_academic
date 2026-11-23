@@ -6,7 +6,9 @@ punctuation in the parenthetical form: `(Strand 42)`. When the
 author's name is part of the sentence, the parentheses carry the page
 alone: `Strand reads the archive as a pattern of delays (42)`. Author
 and page are the shape's whole information core; the work resolves
-through the works-cited list, where the reader searches by author.
+through the works-cited list, where the reader searches by author. A
+work with three or more authors is cited by the first author and "et
+al.": `(Strand et al. 42)`.
 
 ## Placement at the format-family level
 

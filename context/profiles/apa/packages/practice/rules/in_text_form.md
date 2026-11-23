@@ -20,4 +20,7 @@ locator rides inside the parentheses after the year, as in `(Strand,
 
 One style decision belongs to the document level: the author-date
 pair is written the same way at every citation site, parenthetical or
-narrative, first appearance or repeat.
+narrative, first appearance or repeat. A work with three or more
+authors is cited by the first author and "et al." from the first
+citation on, `(Strand et al., 2019)`, unless that shortening makes two
+works indistinguishable.
