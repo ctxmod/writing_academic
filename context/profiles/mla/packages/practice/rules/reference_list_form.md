@@ -12,13 +12,16 @@ Every entry carries the fields the style manual requires for its
 type, and the floor below applies before any entry is submitted:
 
 - all authors, in the style's name order, up to the manual's display
-  limit;
+  limit: one or two authors are named, and three or more become the
+  first author followed by "et al.";
 - the year of publication;
 - the title of the work;
 - the venue: the journal, the book publisher, or the equivalent
   container;
-- the DOI or URL when one exists;
-- an access date for volatile web content.
+- the location: a DOI when one exists (`https://doi.org/...`), then a
+  permalink, then a URL;
+- an access date for web content that carries no publication date or
+  may change; MLA 9 makes it optional otherwise.
 
 Incomplete metadata is the failure class that survives review most
 easily: an unnamed coauthor or a bare title still reads as a finished

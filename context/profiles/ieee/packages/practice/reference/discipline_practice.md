@@ -27,3 +27,26 @@ URL, and access dates for volatile web content. When sources are
 stored as ctxmod sources, the same floor maps onto the source
 metadata vocabulary: author, issued, title, container or publisher,
 doi or url, accessed.
+
+## Edition
+
+The IEEE Reference Guide is versioned rather than numbered by
+edition; the current version is 3.28.2025, published by IEEE
+Publication Operations and now served from the IEEE Author Center as
+a shared document. Its changes against version 11.29.2023 include
+writing out reference ranges in the text (`[1], [2], [3]` rather than
+`[1]–[3]`). The widely used `ieee.csl` style file still declares
+version 11.29.2023, and it does not collapse ranges, so its in-text
+output already matches the newer rule; check the closing list
+against the guide.
+
+## Sources
+
+- https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf
+  — IEEE Reference Guide V 3.28.2025 (the link resolves to the shared
+  document): in-text ranges, "ibid." elimination, the six-author
+  limit; accessed 2026-11-23.
+- https://github.com/citation-style-language/styles/blob/master/ieee.csl
+  — the CSL IEEE style, titled for Reference Guide version
+  11.29.2023, with a non-collapsing citation layout; accessed
+  2026-11-23.

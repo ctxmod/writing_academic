@@ -12,13 +12,15 @@ Every entry carries the fields the style manual requires for its type,
 and the floor below applies before any entry is submitted:
 
 - all authors, in the style's name order, up to the manual's display
-  limit;
+  limit: APA 7 lists up to 20 authors, and for 21 or more gives the
+  first 19, an ellipsis, and the final author;
 - the year of publication;
 - the title of the work;
 - the venue: the journal, the book publisher, or the equivalent
   container;
-- the DOI when one exists, otherwise the URL;
-- an access date for volatile web content.
+- the DOI when one exists, written as a link (`https://doi.org/...`),
+  otherwise the URL;
+- a retrieval date only for content designed to change over time.
 
 Incomplete metadata is the failure class that survives review most
 easily: a missing DOI or an unnamed later author still reads as a

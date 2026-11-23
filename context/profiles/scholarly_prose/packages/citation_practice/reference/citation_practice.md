@@ -116,7 +116,9 @@ Include complete metadata for every source:
 - Identifiers (DOI, ISBN, URL)
 - Access dates for volatile web content
 
-Maintain consistency in formatting. Reference style guides (APA Manual, MLA Handbook, Chicago Manual of Style, IEEE Editorial Style Manual) provide comprehensive rules for each style. Use bibliography management tools appropriate to your workflow and venue requirements.
+Maintain consistency in formatting. Reference style guides (APA Publication Manual, 7th ed.; MLA Handbook, 9th ed.; Chicago Manual of Style, 18th ed.; IEEE Reference Guide and IEEE Editorial Style Manual) provide comprehensive rules for each style. Use bibliography management tools appropriate to your workflow and venue requirements, and check that the style file a tool applies declares the edition the venue expects.
+
+Output from a generative AI tool that is quoted, paraphrased, or built into the work is cited and its use disclosed; the three manuals' entry shapes are in <ctxmod_path path="ctx:github.com/ctxmod/writing_academic/context::shared::citations@core/reference/ai_generated_content.md" />.
 
 See `source_evaluation` (module `agentic`, profile `workflows`, skill `research_procedure`).
 

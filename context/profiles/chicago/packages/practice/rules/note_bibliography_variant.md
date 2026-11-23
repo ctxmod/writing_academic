@@ -1,12 +1,24 @@
-# Chicago 17: The Notes-Bibliography Variant
+# Chicago 18: The Notes-Bibliography Variant
 
-Chicago 17's notes-bibliography system cites through numbered
+Chicago 18's notes-bibliography system cites through numbered
 footnotes. Each citation site carries a superscript number, the notes
 are numbered in first-appearance order through the document, and each
 note carries the source's details with its page locator. The closing
 list is a bibliography ordered alphabetically by family name; the
 numbering lives in the document's notes, never in the bibliography
 itself.
+
+## Repeat citations use shortened notes
+
+The first note for a source gives the full citation. Later notes for
+the same source give a shortened note: the author's family name and a
+short title, with the locator (Strand, *Archive of Delays*, 42).
+Chicago 18 discourages "ibid." because it can obscure which source a
+note means, especially in electronic formats that show one note at a
+time; a shortened note takes no more space. A note names the first
+author and "et al." when a work has more than two authors. The
+bibliography names up to six authors, and for more than six it gives
+the first three followed by "et al."
 
 ## The convention's own posture
 
